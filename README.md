@@ -17,7 +17,7 @@ A fast and robust multithreaded directory brute-forcing tool designed for securi
 
 ## **Prerequisites**
 
-- **Python 3.10.10 installed on your system.
+- Python 3.10.10 installed on your system.
 - Required libraries: Install dependencies using `pip`:
   ```bash
   pip install requests tqdm
